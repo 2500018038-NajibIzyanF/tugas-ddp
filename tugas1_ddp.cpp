@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int totalDetik, jam, menit, detik;
 
-    cout << "Masukkan bilangan > 1: ";
+    cout << "Masukkan satuan detik > 1: ";
     cin >> totalDetik;
 
     if (totalDetik < 1) {
@@ -22,4 +22,5 @@ int main() {
 
     return 0;
 }
+
 
