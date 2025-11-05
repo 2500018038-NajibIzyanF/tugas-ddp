@@ -5,7 +5,7 @@ int main(){
 	long totaldetik;
 	int hari, jam, menit, detik;	
 	
-	cout<<"masukkan bilangan (satuan detik) > 1: ";
+	cout<<"masukkan bilangan > 1: ";
 	cin>>totaldetik;
 	
 	if (totaldetik < 1){
@@ -25,3 +25,4 @@ int main(){
     return 0;
 		
 }
+
